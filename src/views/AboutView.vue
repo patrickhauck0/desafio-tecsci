@@ -9,7 +9,7 @@
           </p>
           <p>
             O projeto visa a criação de uma aplicação web com foco nas técnicas de VueJS e outras habilidades. Dentre elas, alguns do requisitos
-            mencionados, é a criação de um dashboard utilizando Highcharts a partir de um JSON disponibilizado pela empresa. Além disso, pediram para que
+            mencionados, é a criação de um dashboard utilizando Chart.js a partir de um JSON disponibilizado pela empresa. Além disso, pediram para que
             realizasse a implementação da API do IBGE através de Axios para requisições HTTP e gerar uma tabela com a resposta.
           </p>
           <v-btn
