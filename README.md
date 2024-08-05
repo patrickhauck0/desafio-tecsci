@@ -9,12 +9,12 @@ Este projeto visa a criação de uma aplicação web com foco nas técnicas de V
 
 ## Tecnologias Utilizadas
 
-✅ **Git e GitHub**: Controle de versão e hospedagem de código fonte.
-✅ **Vue.js**: Framework JavaScript progressivo para construir interfaces de usuário.
-✅ **Vuetify**: Biblioteca de componentes Vue.js baseada em Material Design.
-✅ **Chart.js**: Biblioteca JavaScript para criar gráficos interativos.
-✅ **Axios**: Cliente HTTP para fazer requisições à API.
-❌ **Pinia**: Biblioteca de gerenciamento de estado para Vue.js.
+✅ **Git e GitHub**: Controle de versão e hospedagem de código fonte. <br/>
+✅ **Vue.js**: Framework JavaScript progressivo para construir interfaces de usuário. <br/>
+✅ **Vuetify**: Biblioteca de componentes Vue.js baseada em Material Design. <br/>
+✅ **Chart.js**: Biblioteca JavaScript para criar gráficos interativos. <br/>
+✅ **Axios**: Cliente HTTP para fazer requisições à API. <br/>
+❌ **Pinia**: Biblioteca de gerenciamento de estado para Vue.js. <br/>
 ❌ **VueDatePicker**: Componente Vue.js para seleção de datas.
 
 ## Funcionalidades
